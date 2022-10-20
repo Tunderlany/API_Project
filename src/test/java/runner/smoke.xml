@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="API project smoke suite">
+
+    <test name="JUnit tests converted" junit="true">
+
+        <classes>
+
+            <class name="get.Resources"> </class>
+            <class name="get.Users"> </class>
+
+        </classes>
+
+    </test>
+
+</suite>
