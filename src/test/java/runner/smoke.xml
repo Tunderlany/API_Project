@@ -2,7 +2,7 @@
 
 <suite name="API project smoke suite">
 
-    <test name="JUnit tests converted" junit="true">
+    <test name="Get requests">
 
         <classes>
 

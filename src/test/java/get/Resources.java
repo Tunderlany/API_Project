@@ -5,7 +5,7 @@ import io.restassured.common.mapper.TypeRef;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.Assert;
-import org.junit.Test;
+import org.testng.annotations.Test;
 import pojo.DataPojo;
 import pojo.ResourcePojo;
 import pojo.ResourcesPojo;
